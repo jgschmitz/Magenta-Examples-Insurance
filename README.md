@@ -1,1 +1,0 @@
-# Magenta-Examples-Insurance
