@@ -5,7 +5,7 @@
 <h1 align="center">🛡️ Magenta Insurance Agent</h1>
 
 <p align="center">
-  <strong>An agentic insurance workflow powered by OpenAI + MongoDB Atlas</strong><br />
+  <strong>An agentic insurance workflow powered by VoyageAI, OpenAI + MongoDB Atlas</strong><br />
   Policy lookup, quotes, claims, risk scoring, human review, notifications, and vector-ready memory — all in one demo. 🚗💥📄
 </p>
 
